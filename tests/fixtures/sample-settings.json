@@ -1,0 +1,10 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "default-token",
+    "ANTHROPIC_BASE_URL": "https://api.anthropic.com"
+  },
+  "permissions": {
+    "allow": ["Bash(npm test)"],
+    "deny": []
+  }
+}
